@@ -321,7 +321,7 @@ ul {
 }
 .bg14 {
   background-color: #031321;
-  background: url(assets/images/bg/testi-bg.jpg);
+  background: url(assets/images/home/bg1_1.jpg);
   background-repeat: no-repeat;
 }
 .bg15 {
@@ -331,7 +331,7 @@ ul {
   background-size: cover;
 }
 .bg16 {
-  background: url(assets/images/bg/process-bg.jpg);
+  background: url(assets/images/home/bg1_1.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6058,7 +6058,7 @@ body .search-modal .close:hover {
   margin: 0;
 }
 .rs-choose.choose-style4 .video-item {
-  background-image: url(assets/images/video/video-image3.jpg);
+  background-image: url(assets/images/home/DS2.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -13329,7 +13329,7 @@ body .search-modal .close:hover {
   background: #e8271e;
 }
 .rs-footer.footer-main-home.footer-style3 {
-  background-image: url(assets/images/bg/footer-bg3.jpg);
+  background-image: url(assets/images/home/bg1_2.jpg);
 }
 .rs-footer.footer-main-home.footer-style3 .footer-bottom .copy-right-menu li a:hover,
 .rs-footer.footer-main-home.footer-style3 .footer-bottom .copyright p a:hover,
